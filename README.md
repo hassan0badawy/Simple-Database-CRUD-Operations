@@ -62,9 +62,11 @@ All queries are **parameterized** (`@name`, `@age`, `@gpa`, `@id`). User input i
 ### Add student (with input validation)
 Invalid names, ages, and GPA values are rejected until a valid value is entered.
 
-![Add student](screenshots/02-add.png)
+<img width="540" height="326" alt="Screenshot 2026-10-11 172139" src="https://github.com/user-attachments/assets/4c55a03a-4b0b-43ec-bedc-0761dff2b9cf" />
+
 
 ### Delete student
 The Id is checked before deleting, and the table afterwards shows the remaining students.
 
-![Delete student](screenshots/05-delete.png)
+<img width="519" height="306" alt="Screenshot 2026-10-11 172316" src="https://github.com/user-attachments/assets/30484aac-bf38-48ab-9920-87a5f960d103" />
+
